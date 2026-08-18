@@ -7,25 +7,25 @@
   },
   {
     "id": 2,
-    "name": "Raf Autoflex",
+    "name": "RAF Autoflex",
     "category": "Industrial V-Belts",
     "image": "/catalog/Catalog/Automotive%20Power%20Transmission%20Belts/raf_autoflex.jpg"
   },
   {
     "id": 3,
-    "name": "Rib Ace",
+    "name": "RIB Ace",
     "category": "Industrial V-Belts",
     "image": "/catalog/Catalog/Automotive%20Power%20Transmission%20Belts/rib_ace.jpg"
   },
   {
     "id": 4,
-    "name": "Rpf Powerflex",
+    "name": "RPF Powerflex",
     "category": "Industrial V-Belts",
     "image": "/catalog/Catalog/Automotive%20Power%20Transmission%20Belts/rpf_powerflex.jpg"
   },
   {
     "id": 5,
-    "name": "Sts",
+    "name": "STS",
     "category": "Industrial V-Belts",
     "image": "/catalog/Catalog/Automotive%20Power%20Transmission%20Belts/sts.jpg"
   },
@@ -55,7 +55,7 @@
   },
   {
     "id": 10,
-    "name": "Ball&Roller Bearing",
+    "name": "Ball & Roller Bearing",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ball%26roller_bearing.jpg"
   },
@@ -85,19 +85,19 @@
   },
   {
     "id": 15,
-    "name": "Lmf",
+    "name": "LMF",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/lmf.jpg"
   },
   {
     "id": 16,
-    "name": "Lmk",
+    "name": "LMK",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/lmk.jpg"
   },
   {
     "id": 17,
-    "name": "Oilless Bush Lfb",
+    "name": "Oilless Bush LFB",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/oilless_bush_lfb.jpg"
   },
@@ -121,13 +121,13 @@
   },
   {
     "id": 21,
-    "name": "Sbpfl",
+    "name": "SBPFL",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/sbpfl.jpg"
   },
   {
     "id": 22,
-    "name": "Sbpp",
+    "name": "SBPP",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/sbpp.jpg"
   },
@@ -145,61 +145,61 @@
   },
   {
     "id": 25,
-    "name": "Ucf",
+    "name": "UCF",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucf.jpg"
   },
   {
     "id": 26,
-    "name": "Ucfa",
+    "name": "UCFA",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucfa.jpg"
   },
   {
     "id": 27,
-    "name": "Ucfb",
+    "name": "UCFB",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucfb.jpg"
   },
   {
     "id": 28,
-    "name": "Ucfl",
+    "name": "UCFL",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucfl.jpg"
   },
   {
     "id": 29,
-    "name": "Ucfu",
+    "name": "UCFU",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucfu.jpg"
   },
   {
     "id": 30,
-    "name": "Ucha",
+    "name": "UCHA",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucha.jpg"
   },
   {
     "id": 31,
-    "name": "Ucp",
+    "name": "UCP",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucp.jpg"
   },
   {
     "id": 32,
-    "name": "Ucpa",
+    "name": "UCPA",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucpa.jpg"
   },
   {
     "id": 33,
-    "name": "Ucph",
+    "name": "UCPH",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/ucph.jpg"
   },
   {
     "id": 34,
-    "name": "Uct",
+    "name": "UCT",
     "category": "Ball and Roller Bearing",
     "image": "/catalog/Catalog/Ball%20and%20Roller%20Bearing/uct.jpg"
   },
@@ -275,7 +275,12 @@
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/coupling_disc.jpg"
   },
-  
+  {
+    "id": 47,
+    "name": "Featured",
+    "category": "Couplings Products",
+    "image": "/catalog/Catalog/Couplings%20Products/featured.jpg"
+  },
   {
     "id": 48,
     "name": "Flexible Coupling",
@@ -296,13 +301,13 @@
   },
   {
     "id": 51,
-    "name": "Hrc Coupling",
+    "name": "HRC Coupling",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/hrc_coupling.jpg"
   },
   {
     "id": 52,
-    "name": "Hs Coupling",
+    "name": "HS Coupling",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/hs_coupling.jpg"
   },
@@ -326,7 +331,7 @@
   },
   {
     "id": 56,
-    "name": "Mh Set",
+    "name": "MH Set",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/mh_set.jpg"
   },
@@ -344,7 +349,7 @@
   },
   {
     "id": 59,
-    "name": "Mt Coupling",
+    "name": "MT Coupling",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/mt_coupling.jpg"
   },
@@ -356,13 +361,13 @@
   },
   {
     "id": 61,
-    "name": "Nm Set",
+    "name": "NM Set",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/nm_set_1.jpg"
   },
   {
     "id": 62,
-    "name": "Nm Set",
+    "name": "NM Set",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/nm_set.jpg"
   },
@@ -374,19 +379,19 @@
   },
   {
     "id": 64,
-    "name": "Power Lock Ae",
+    "name": "Power Lock AE",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_ae.jpg"
   },
   {
     "id": 65,
-    "name": "Power Lock As",
+    "name": "Power Lock AS",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_as.jpg"
   },
   {
     "id": 66,
-    "name": "Power Lock Ef",
+    "name": "Power Lock EF",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_ef.jpg"
   },
@@ -398,7 +403,7 @@
   },
   {
     "id": 68,
-    "name": "Power Lock Ke",
+    "name": "Power Lock KE",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_ke.jpg"
   },
@@ -410,7 +415,7 @@
   },
   {
     "id": 70,
-    "name": "Power Lock Re",
+    "name": "Power Lock RE",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_re.jpg"
   },
@@ -422,7 +427,7 @@
   },
   {
     "id": 72,
-    "name": "Power Lock Tf",
+    "name": "Power Lock TF",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/power_lock_tf.jpg"
   },
@@ -452,7 +457,7 @@
   },
   {
     "id": 77,
-    "name": "Rubber Gjb",
+    "name": "Rubber GJB",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/rubber_gjb.jpg"
   },
@@ -464,13 +469,13 @@
   },
   {
     "id": 79,
-    "name": "Rubber Mh",
+    "name": "Rubber MH",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/rubber_mh.jpg"
   },
   {
     "id": 80,
-    "name": "Rubber Nm",
+    "name": "Rubber NM",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/rubber_nm.jpg"
   },
@@ -482,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "Sf Coupling",
+    "name": "SF Coupling",
     "category": "Couplings Products",
     "image": "/catalog/Catalog/Couplings%20Products/sf_coupling.jpg"
   },
@@ -536,7 +541,7 @@
   },
   {
     "id": 91,
-    "name": "Bolt Nut",
+    "name": "Bolt & Nut",
     "category": "Fasteners Products",
     "image": "/catalog/Catalog/Fasteners%20Products/bolt_nut.jpg"
   },
@@ -578,7 +583,7 @@
   },
   {
     "id": 98,
-    "name": "Csk",
+    "name": "CSK",
     "category": "Fasteners Products",
     "image": "/catalog/Catalog/Fasteners%20Products/csk.jpg"
   },
@@ -716,7 +721,7 @@
   },
   {
     "id": 121,
-    "name": "Plow Bolt&Nut",
+    "name": "Plow Bolt & Nut",
     "category": "Fasteners Products",
     "image": "/catalog/Catalog/Fasteners%20Products/plow_bolt%26nut.jpg"
   },
@@ -902,7 +907,7 @@
   },
   {
     "id": 152,
-    "name": "Polyurethane Flat Belts Corded 1",
+    "name": "Polyurethane Flat Belts Corded",
     "category": "Industrial V-Belts",
     "image": "/catalog/Catalog/Industrial%20V-Belts/polyurethane_flat_belts_corded_1.jpg"
   },
